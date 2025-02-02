@@ -1,3 +1,10 @@
+# STEPS:
+# 1. Extract necessary cols for now. Ignore direct investment behaviors
+# 2. Run PCA Dimensionality Reduction
+# 3. Run Clustering Algo - KMeans
+# 4. Adjust number of clusters as needed
+# 5. Investigate findings
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
